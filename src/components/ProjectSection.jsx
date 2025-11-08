@@ -3,7 +3,7 @@ import { ArrowBigRight, ExternalLinkIcon, Github } from "lucide-react";
 const projects =[
     {
         id:1,
-        title:"Flipkart Clone",
+        title:"Flipkart Website",
         description:"A clone of the popular e-commerce platform Flipkart, built using React and Node.js.",
         image:"../projects/FC_UI.jpeg",
         tag:["React", "Node.js", "E-commerce"],
